@@ -4,3 +4,4 @@ pandas
 pydeck
 streamlit
 joblib
+scikit-learn lightgbm xgboost catboost
